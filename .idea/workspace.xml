@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ff5ebf79-d5b9-49f0-b29d-0b37be4b5d31" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/acceptServer/framework/Chanel.go" afterDir="false" />
+=======
+    <list default="true" id="9b7686ce-052e-4b80-ade3-01e603d5a578" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Gamer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/acceptServer/proto/Header.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/acceptServer/test/test.go" afterDir="false" />
+>>>>>>> 747e2b9f190917948bce0c4178795feab80c1a12
       <change beforePath="$PROJECT_DIR$/src/acceptServer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/acceptServer/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,28 +22,73 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/acceptServer/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="934">
               <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/acceptServer/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+              <folding>
+                <element signature="e#14#116#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/acceptServer/network/proxyserver.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+              <folding>
+                <element signature="e#17#41#0" expanded="true" />
+              </folding>
+>>>>>>> 747e2b9f190917948bce0c4178795feab80c1a12
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/acceptServer/framework/Chanel.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1054">
               <caret line="34" column="53" lean-forward="true" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
               <folding>
                 <element signature="e#19#47#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/acceptServer/test/test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+              <folding>
+                <element signature="e#14#59#0" expanded="true" />
+>>>>>>> 747e2b9f190917948bce0c4178795feab80c1a12
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/acceptServer/proto/Header.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> 747e2b9f190917948bce0c4178795feab80c1a12
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -43,6 +98,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="FindInProjectRecents">
     <findStrings>
       <find>int</find>
@@ -60,12 +116,16 @@
     </findStrings>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.12.5/libexec" />
+=======
+  <component name="GOROOT" path="C:\Go" />
+>>>>>>> 747e2b9f190917948bce0c4178795feab80c1a12
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/code.acceptServer.com/README.md" />
         <option value="$PROJECT_DIR$/src/code.acceptServer.com/amf/amf_package.test.go" />
         <option value="$PROJECT_DIR$/src/code.acceptServer.com/amf/amf_package_test.go" />
@@ -82,6 +142,24 @@
     <option name="height" value="1344" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+        <option value="$PROJECT_DIR$/src/acceptServer/proto.go" />
+        <option value="$PROJECT_DIR$/src/acceptServer/proto/Header.go" />
+        <option value="$PROJECT_DIR$/src/acceptServer/test/test.go" />
+        <option value="$PROJECT_DIR$/src/acceptServer/network.go" />
+        <option value="$PROJECT_DIR$/src/acceptServer/network/network.go" />
+        <option value="$PROJECT_DIR$/src/acceptServer/main.go" />
+        <option value="$PROJECT_DIR$/src/acceptServer/network/proxyserver.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="80" />
+    <option name="y" value="315" />
+    <option name="width" value="1440" />
+    <option name="height" value="899" />
+  </component>
+>>>>>>> 747e2b9f190917948bce0c4178795feab80c1a12
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -92,6 +170,7 @@
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="goserver" type="b2602c69:ProjectViewProjectNode" />
               <item name="goserver" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -106,6 +185,29 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="acceptServer" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+              <item name="Gamer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gamer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gamer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gamer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gamer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gamer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="acceptServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gamer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gamer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="acceptServer" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> 747e2b9f190917948bce0c4178795feab80c1a12
           </expand>
           <select />
         </subPane>
@@ -114,15 +216,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+<<<<<<< HEAD
+=======
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+>>>>>>> 747e2b9f190917948bce0c4178795feab80c1a12
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+=======
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\snake\Desktop\golang\gamer\Gamer\src\acceptServer\network" />
+    </key>
+>>>>>>> 747e2b9f190917948bce0c4178795feab80c1a12
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,11 +259,18 @@
   </component>
   <component name="RunManager">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+<<<<<<< HEAD
       <module name="goserver" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/src/code.acceptServer.com/main.go" />
       <package value="github.com/AnZenghui/goserver" />
+=======
+      <module name="Gamer" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/acceptServer/main.go" />
+>>>>>>> 747e2b9f190917948bce0c4178795feab80c1a12
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -153,6 +281,7 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="0" y="23" width="2560" height="1344" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.114035085" />
@@ -175,12 +304,38 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="JSON Viewer" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+=======
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="LuaCheck" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32922733" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+>>>>>>> 747e2b9f190917948bce0c4178795feab80c1a12
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file:///usr/local/Cellar/go/1.12.5/libexec/src/reflect/type.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
@@ -246,24 +401,65 @@
           <caret line="185" column="25" lean-forward="true" selection-start-line="185" selection-start-column="25" selection-end-line="185" selection-end-column="25" />
           <folding>
             <element signature="e#13#54#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/acceptServer/proto.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/acceptServer/proto/Header.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/acceptServer/test/test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding>
+            <element signature="e#14#59#0" expanded="true" />
+>>>>>>> 747e2b9f190917948bce0c4178795feab80c1a12
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/acceptServer/framework/Chanel.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
           <caret line="34" column="53" lean-forward="true" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
           <folding>
             <element signature="e#19#47#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/acceptServer/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <element signature="e#14#116#0" expanded="true" />
+>>>>>>> 747e2b9f190917948bce0c4178795feab80c1a12
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/acceptServer/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="934">
           <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/acceptServer/network/proxyserver.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+          <folding>
+            <element signature="e#17#41#0" expanded="true" />
+          </folding>
+>>>>>>> 747e2b9f190917948bce0c4178795feab80c1a12
         </state>
       </provider>
     </entry>
