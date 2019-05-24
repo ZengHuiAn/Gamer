@@ -8,9 +8,6 @@ import (
 	"fmt"
 )
 
-
-
-
 func test() {
 	arr := make([]interface{}, 9)
 	arr[0] = 1

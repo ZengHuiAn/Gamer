@@ -1,7 +1,6 @@
 package main
 
 import (
-
 	"acceptServer/network"
 	"errors"
 	"log"
@@ -10,9 +9,7 @@ import (
 	"syscall"
 )
 
-
 func main() {
-
 
 	network.StartTransfer()
 	s := wait(os.Interrupt, os.Kill, syscall.SIGTERM)

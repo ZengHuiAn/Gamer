@@ -1,0 +1,9 @@
+{
+  "name": "node",
+  "homepage": ".",
+  "version": "1.0.0",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "node": "^12.3.1"
+  }
+}

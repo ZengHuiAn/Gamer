@@ -37,7 +37,7 @@ type Header struct {
 	Cmd    uint32
 }
 
-func handleRequest(conn net.Conn)  {
+func handleRequest(conn net.Conn) {
 	fmt.Println(conn.RemoteAddr())
 
 	var header Header
@@ -45,7 +45,7 @@ func handleRequest(conn net.Conn)  {
 
 	if err != nil {
 		log.Printf("[getTargetIp] error, binary fail to read, %v\n", err)
-		return;
+		return
 	}
 
 	//body
@@ -53,7 +53,7 @@ func handleRequest(conn net.Conn)  {
 	_, err = io.ReadFull(conn, bs)
 	if err != nil {
 		log.Printf("[getTargetIp] error, io fail to read body\n", err)
-		return;
+		return
 	}
 
 	//encode amf message
@@ -64,5 +64,5 @@ func handleRequest(conn net.Conn)  {
 		return
 	}
 
-	log.Println("client Info",header,amf_buf)
+	log.Println("client Info", header, amf_buf)
 }

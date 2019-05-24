@@ -8,11 +8,11 @@ services:
       - 8081:8081
     restart: always
 
-  nginx:
+  node:
     depends_on:
       - reverseproxy
-    image: nginx:alpine
-    restart: always
+    image: node111
+    restart: "no"
 
   apache:
     depends_on:

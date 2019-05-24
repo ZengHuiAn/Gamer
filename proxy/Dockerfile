@@ -1,3 +1,3 @@
 FROM nginx:alpine
 MAINTAINER "reverseproxy"
-COPY nginx.nginx /etc/nginx/nginx.conf
+COPY nginx.conf /etc/nginx/nginx.conf
