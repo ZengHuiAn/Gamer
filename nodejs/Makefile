@@ -1,0 +1,5 @@
+
+
+all:
+		node main.js
+
