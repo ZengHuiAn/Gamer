@@ -2,6 +2,8 @@ package network
 
 import (
 	"acceptServer/amf"
+	"acceptServer/gateway"
+	"acceptServer/proto"
 	"bytes"
 	"encoding/binary"
 	"fmt"
@@ -31,16 +33,10 @@ func StartTransfer() {
 	}
 }
 
-type Header struct {
-	Length uint32
-	Flag   uint32
-	Cmd    uint32
-}
-
 func handleRequest(conn net.Conn) {
 	fmt.Println(conn.RemoteAddr())
 
-	var header Header
+	var header proto.ClientPackageHeader
 	err := binary.Read(conn, binary.BigEndian, &header)
 
 	if err != nil {
@@ -53,6 +49,7 @@ func handleRequest(conn net.Conn) {
 	_, err = io.ReadFull(conn, bs)
 	if err != nil {
 		log.Printf("[getTargetIp] error, io fail to read body\n", err)
+		_ = conn.Close()
 		return
 	}
 
@@ -65,4 +62,6 @@ func handleRequest(conn net.Conn) {
 	}
 
 	log.Println("client Info", header, amf_buf)
+
+	gateway.OnMessage(conn, amf_buf)
 }

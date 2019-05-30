@@ -2,7 +2,6 @@ package main
 
 import (
 	"acceptServer/network"
-	"errors"
 	"log"
 	"os"
 	"os/signal"
@@ -10,7 +9,6 @@ import (
 )
 
 func main() {
-
 	network.StartTransfer()
 	s := wait(os.Interrupt, os.Kill, syscall.SIGTERM)
 	log.Printf("Got signal `%s`", s.String())
